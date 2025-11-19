@@ -16,7 +16,7 @@ Final/
 
 ---
 
-# Question 1 – California Housing (Linear Regression)
+# California Housing (Linear Regression)
 
 ## Summary
 - Target: MedHouseVal  
@@ -38,7 +38,7 @@ Final/
 
 ---
 
-# Question 2 – Polynomial + LASSO Regression
+# Polynomial + LASSO Regression
 
 ## Results
 - MSE: 5.6105  
@@ -51,7 +51,7 @@ Final/
 
 ---
 
-# Question 3 – Breast Cancer – Logistic Regression
+# Breast Cancer – Logistic Regression
 
 ## Model
 - Logistic Regression with L2 penalty  
